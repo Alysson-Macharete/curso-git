@@ -1,0 +1,13 @@
+C:\Users\alyss\Desktop\C#\Udemy\GitProjectTest\GitProjectTest\bin\Debug\netcoreapp3.1\GitProjectTest.exe
+C:\Users\alyss\Desktop\C#\Udemy\GitProjectTest\GitProjectTest\bin\Debug\netcoreapp3.1\GitProjectTest.deps.json
+C:\Users\alyss\Desktop\C#\Udemy\GitProjectTest\GitProjectTest\bin\Debug\netcoreapp3.1\GitProjectTest.runtimeconfig.json
+C:\Users\alyss\Desktop\C#\Udemy\GitProjectTest\GitProjectTest\bin\Debug\netcoreapp3.1\GitProjectTest.runtimeconfig.dev.json
+C:\Users\alyss\Desktop\C#\Udemy\GitProjectTest\GitProjectTest\bin\Debug\netcoreapp3.1\GitProjectTest.dll
+C:\Users\alyss\Desktop\C#\Udemy\GitProjectTest\GitProjectTest\bin\Debug\netcoreapp3.1\GitProjectTest.pdb
+C:\Users\alyss\Desktop\C#\Udemy\GitProjectTest\GitProjectTest\obj\Debug\netcoreapp3.1\GitProjectTest.csprojAssemblyReference.cache
+C:\Users\alyss\Desktop\C#\Udemy\GitProjectTest\GitProjectTest\obj\Debug\netcoreapp3.1\GitProjectTest.AssemblyInfoInputs.cache
+C:\Users\alyss\Desktop\C#\Udemy\GitProjectTest\GitProjectTest\obj\Debug\netcoreapp3.1\GitProjectTest.AssemblyInfo.cs
+C:\Users\alyss\Desktop\C#\Udemy\GitProjectTest\GitProjectTest\obj\Debug\netcoreapp3.1\GitProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\alyss\Desktop\C#\Udemy\GitProjectTest\GitProjectTest\obj\Debug\netcoreapp3.1\GitProjectTest.dll
+C:\Users\alyss\Desktop\C#\Udemy\GitProjectTest\GitProjectTest\obj\Debug\netcoreapp3.1\GitProjectTest.pdb
+C:\Users\alyss\Desktop\C#\Udemy\GitProjectTest\GitProjectTest\obj\Debug\netcoreapp3.1\GitProjectTest.genruntimeconfig.cache
